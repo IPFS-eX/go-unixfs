@@ -7,7 +7,7 @@ import (
 	"io"
 
 	ipld "github.com/ipfs/go-ipld-format"
-	mdag "github.com/ipfs/go-merkledag"
+	mdag "github.com/IPFS-eX/go-merkledag"
 	unixfs "github.com/ipfs/go-unixfs"
 )
 

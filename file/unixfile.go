@@ -9,7 +9,7 @@ import (
 
 	files "github.com/ipfs/go-ipfs-files"
 	ipld "github.com/ipfs/go-ipld-format"
-	dag "github.com/ipfs/go-merkledag"
+	dag "github.com/IPFS-eX/go-merkledag"
 )
 
 // Number to file to prefetch in directories

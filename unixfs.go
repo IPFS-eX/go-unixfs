@@ -8,7 +8,7 @@ import (
 	"fmt"
 
 	proto "github.com/gogo/protobuf/proto"
-	dag "github.com/ipfs/go-merkledag"
+	dag "github.com/IPFS-eX/go-merkledag"
 
 	ipld "github.com/ipfs/go-ipld-format"
 	pb "github.com/ipfs/go-unixfs/pb"
