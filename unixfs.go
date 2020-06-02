@@ -11,7 +11,7 @@ import (
 	dag "github.com/IPFS-eX/go-merkledag"
 
 	ipld "github.com/ipfs/go-ipld-format"
-	pb "github.com/ipfs/go-unixfs/pb"
+	pb "github.com/IPFS-eX/go-unixfs/pb"
 )
 
 // A LinkResult for any parallel enumeration of links

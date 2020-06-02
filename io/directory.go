@@ -7,8 +7,8 @@ import (
 
 	mdag "github.com/IPFS-eX/go-merkledag"
 
-	format "github.com/ipfs/go-unixfs"
-	hamt "github.com/ipfs/go-unixfs/hamt"
+	format "github.com/IPFS-eX/go-unixfs"
+	hamt "github.com/IPFS-eX/go-unixfs/hamt"
 
 	cid "github.com/ipfs/go-cid"
 	ipld "github.com/ipfs/go-ipld-format"

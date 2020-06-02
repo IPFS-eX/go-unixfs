@@ -9,9 +9,9 @@ import (
 	mrand "math/rand"
 	"testing"
 
-	ft "github.com/ipfs/go-unixfs"
-	h "github.com/ipfs/go-unixfs/importer/helpers"
-	uio "github.com/ipfs/go-unixfs/io"
+	ft "github.com/IPFS-eX/go-unixfs"
+	h "github.com/IPFS-eX/go-unixfs/importer/helpers"
+	uio "github.com/IPFS-eX/go-unixfs/io"
 
 	chunker "github.com/ipfs/go-ipfs-chunker"
 	u "github.com/ipfs/go-ipfs-util"
