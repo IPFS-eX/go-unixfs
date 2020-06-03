@@ -189,9 +189,9 @@ func (m *Metadata) GetMimeType() string {
 }
 
 func init() {
-	proto.RegisterEnum("unixfs.pb.Data_DataType", Data_DataType_name, Data_DataType_value)
-	proto.RegisterType((*Data)(nil), "unixfs.pb.Data")
-	proto.RegisterType((*Metadata)(nil), "unixfs.pb.Metadata")
+	// proto.RegisterEnum("unixfs.pb.Data_DataType", Data_DataType_name, Data_DataType_value)
+	// proto.RegisterType((*Data)(nil), "unixfs.pb.Data")
+	// proto.RegisterType((*Metadata)(nil), "unixfs.pb.Metadata")
 }
 
 func init() { proto.RegisterFile("unixfs.proto", fileDescriptor_e2fd76cc44dfc7c3) }
